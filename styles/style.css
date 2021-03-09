@@ -1,0 +1,73 @@
+img {
+width: 300px;
+height: auto;
+border: 7px solid white;
+margin-left: 90px;
+border-radius: 5%;
+
+}
+
+img:hover {
+transform: scale(1.5);
+}
+
+div.M{
+border: 2px white;
+background-color: #a4c6c6;
+padding-bottom: 20px;
+opacity: .9;
+}
+
+
+div.B{
+border: 2px white;
+background-color: #a4c6c6;
+padding-bottom: 20px;
+opacity: .9;
+
+}
+
+div.C{
+border: 2px white;
+background-color: #a4c6c6;
+padding-bottom: 20px;
+opacity: .9;
+}
+
+div.L{
+border: 2px white;
+background-color: #a4c6c6;
+padding-bottom: 20px;
+opacity: .9;
+}
+
+div.Y{
+border: 2px white;
+background-color: #a4c6c6;
+padding-bottom: 20px;
+opacity: .9;
+}
+
+p.Name{
+font-family: 'Dancing Script', cursive;
+font-size: 60px;
+margin-left: 200px;
+padding-top: 20px;
+color: white;
+}
+
+span.details{
+float: right;
+margin-right: 150px;
+padding-top: 40px;
+}
+
+html {
+background-color: #aed0d0;
+}
+
+body {
+color: white;
+}
+
+
